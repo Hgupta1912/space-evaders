@@ -4,7 +4,7 @@ A 2D physics-based space combat game built in Java. Two players pilot spaceships
 
 ## Screenshot
 
-![Space Evaders gameplay screenshot](screenshot.png)
+![Space Evaders gameplay screenshot](https://res.cloudinary.com/c5esjfra/image/upload/v1786569171/Screenshot_2026-08-12_at_4.55.53_PM.png)
 
 ## Features
 
